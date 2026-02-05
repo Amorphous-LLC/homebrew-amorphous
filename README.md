@@ -19,9 +19,7 @@ brew "<formula>"
 
 CLI tool for extracting Wikipedia articles from Wikimedia’s database multistream bz2 dumps
 
-```
-brew install amorphous-llc/amorphous/helewiki
-```
+`brew install amorphous-llc/amorphous/helewiki`
 
 ## Documentation
 
